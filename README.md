@@ -29,7 +29,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |    |09.19 |	    |4,5        |Discrete RVs Strike Back				 |     	|	|
 |    |09.21 | 	    |           |**Return of the Discrete RVs**			 |       |	|
 |5   |09.24 |	    |5          |Continuous RVs Awaken, PDFs, CDFs		 |      |	|
-|    |09.26  | 	    |           |**The Last Continuous RVs**			 |    	|	|
+|    |09.26 | 	    |           |**The Last Continuous RVs**			 |    	|	|
 |    |09.28 |	    |7          |Expectation 							 |       |hw2 due|
 |6   |10.01 |	    |7          |Variance								 |       |hw3 posted|
 |    |10.03 |       |           |**More Expectation & Variance** 		 |       |	|
@@ -47,15 +47,15 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |10  |10.29 |	    |27         |Small-sample HT 						 |       |hw5 posted|
 |    |10.31 |	    |18,23.3    | Interstate Wars 						 |      |	|
 |    |11.02 |	    |           |**Python Pro Tips** 				 	 |       |	|
-|11  |11.05 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
-|    |11.07 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
-|    |11.09 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
-|12  |11.12  |	    |           |Bootstrap Intro						 |        |	|
-|    |11.14  |       |           |**Bootstrap and Small n HT**			 |      |	|
-|    |11.16  | 	    |27         |OLS/SLR Regression 				     |       |hw5 due|
-|13  |11.19	| 	    |    		|THX Inference in SLR						 |        |hw6 posted|
-|    |11.21 | 	    |ISL Ch3    |THX *Hands on inference in SLR*			|       |	|
-|    |11.23 |       |ISL Ch3    |THX MLR   						 			|       |	|
+|11  |11.05 |	    |           |Bootstrap Intro			 |       |	|
+|    |11.07 |	    |           |**Bootstrap and Small n HT**			 |       |	|
+|    |11.09 |	    |           |OLS/SLR Regression			 |       |	|
+|12  |11.12 |	    |           |Inference in SLR						 |        |	|
+|    |11.14 |       |           |*Hands on inference in SLR*			 |      |	|
+|    |11.16 | 	    |27         |MLR				     |       |hw5 due|
+|13  |11.19	| 	    |    		|**FALL BREAK - NO CLASS** 						 |        |hw6 posted|
+|    |11.21 | 	    |ISL Ch3    |**FALL BREAK - NO CLASS** 			|       |	|
+|    |11.23 |       |ISL Ch3    |**FALL BREAK - NO CLASS**    						 			|       |	|
 |14  |11.26 |	    |ISL Ch3    |Inference in MLR						|       |practicum posted|
 |    |11.28 |	    |           |More MLR and ANOVA I			|       |	|
 |    |11.30 |	    |           |ANOVA II         							|       |hw6 due|
@@ -63,5 +63,5 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |    |12.05 | 	    |           |Logistic Regr. & Classification		|       |	|
 |    |12.07 | 	    |           |**Logistic Regr. & Classification**	|       |	|
 |16  |12.10 | 	    |           |Solution Techniques and SGD			|       |	|
-|    |12.12  |	    |           |**FINAL EXAM REVIEW**					|       |practicum due|
-|X   |12.XX  |	    |           |**FINAL EXAM **						|       ||
+|    |12.12 |	    |           |**FINAL EXAM REVIEW**					|       |practicum due|
+|X   |12.XX |	    |           |**FINAL EXAM **						|       ||
