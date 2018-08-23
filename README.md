@@ -45,8 +45,8 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |    |10.24 | 	    |25,26      |p-Values 								 |       |	|
 |    |10.26 | 	    |           |**Practical HT & p**					 |       |hw4 due|
 |10  |10.29 |	    |27         |Small-sample HT 						 |       |hw5 posted|
-|    |10.31 |	    |18,23.3    | Interstate Wars 						 |      |	|
-|    |11.02 |	    |           |**Python Pro Tips** 				 	 |       |	|
+|    |10.31 |	    |18,23.3    | ??? 						 |      |	|
+|    |11.02 |	    |           | ???	 				 	 |       |	|
 |11  |11.05 |	    |           |Bootstrap Intro			 |       |	|
 |    |11.07 |	    |           |**Bootstrap and Small n HT**			 |       |	|
 |    |11.09 |	    |           |OLS/SLR Regression			 |       |	|
