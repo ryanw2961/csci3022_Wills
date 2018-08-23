@@ -2,7 +2,8 @@
 
 ### Course Information 
 
-* **Section 001**: MWF 10-10:50am in MUEN E0046 with Dan Larremore
+* **Section 001**: MWF 1:00-1:50pm in ECCR 200 with Prof. Tony Wong
+* **Section 002**: MWF 3:00-3:50pm in FLMG 154 with Prof. Dan Larremore
 
 * **Prerequisites**: 
 	* C- or better in Calculus 2 
@@ -10,9 +11,13 @@
 	* ability (or willingness to learn) to program in Python 3 
 
 * **Office Hours**: 
-	* Dan: See [Piazza](https://piazza.com/colorado/spring2018/csci3022/home)
-	* Sofie (CA): See [Piazza](https://piazza.com/colorado/spring2018/csci3022/home)
-	* Kyle (CA): See [Piazza](https://piazza.com/colorado/spring2018/csci3022/home)
+	* Tony: See [Piazza](https://piazza.com/colorado/fall2018/csci3022/home) 
+	* Dan: See [Piazza](https://piazza.com/colorado/fall2018/csci3022/home)
+	* Michael G. (CA): See [Piazza](https://piazza.com/colorado/fall2018/csci3022/home)	
+	* Claire (CA): See [Piazza](https://piazza.com/colorado/fall2018/csci3022/home)
+	* Michael Y. (CA): See [Piazza](https://piazza.com/colorado/fall2018/csci3022/home)
+	* Katie (CA): See [Piazza](https://piazza.com/colorado/fall2018/csci3022/home)
+
 
 ### Course Description 
 
@@ -45,7 +50,7 @@ We will use two supplementary texts for the course, both freely available online
 
 ### Course Web Page 
 
-[https://piazza.com/colorado/spring2018/csci3022](https://piazza.com/colorado/spring2018/csci3022)
+[https://piazza.com/colorado/fall2018/csci3022](https://piazza.com/colorado/fall2018/csci3022)
 
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send me a private message. It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
 
@@ -65,7 +70,7 @@ Very frequently in class we will explore computational problems directly in Jupy
 
 **Course Participation**: Occasionally we will solve a short (5-10 minutes) tutorial problem as a class either on paper which you will submit at the end of class, or as a quick Moodle quiz.  Your course participation grade will be determined by 80% of the given tutorial problems (e.g. if we give 10 tutorial problems we will drop two of them.)  Dropped tutorial problems are to account for routine absences like minor illnesses and other unavoidable events.  You may not make up tutorial problems except in very extreme circumstances.  Attempts to subvert the integrity of participation assignments will be considered an Honor Code violation and will be met with measurable consequences.   
 
-**Exams**: There will be an evening midterm on February 28th (6:30 to 7:50 PM) and a final exam given during the university scheduled final examination time.  The final exam will be **cumulative** but will emphasize material covered after the midterm. Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
+**Exams**: There will be an evening midterm on October 10th (Tentatively from 6:30 to 7:50 PM) and a final exam given during the university scheduled final examination time.  The final exam will be **cumulative** but will emphasize material covered after the midterm. Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
 
 **Practicum**: You will be given a practicum during the last week of the semester.  This will be like a cumulative larger homework assignment where you show off all of the skills that you have learned in the course.  The practicum must be completed **completely independently**.  You may not discuss your solutions with anyone else in the class. 
 

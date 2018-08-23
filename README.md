@@ -2,7 +2,7 @@
 
 Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 
-[Piazza](https://piazza.com/class/jce0x9hmee84i2) and [Syllabus](https://github.com/dblarremore/csci3022/blob/master/resources/syllabus.md)
+[Piazza](https://piazza.com/colorado/fall2018/csci3022/home) and [Syllabus](https://github.com/dblarremore/csci3022/blob/master/resources/syllabus.md)
 
 ***
 
