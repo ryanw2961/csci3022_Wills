@@ -52,7 +52,7 @@ We will use two supplementary texts for the course, both freely available online
 
 [https://piazza.com/colorado/fall2018/csci3022](https://piazza.com/colorado/fall2018/csci3022)
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send me a private message. It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing us questions, we request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send us a private message. It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
 
 ### Computing
 
@@ -68,7 +68,7 @@ Very frequently in class we will explore computational problems directly in Jupy
 
 **Homework**: Homework will be assigned roughly every two weeks and due by 5pm on Fridays on Moodle.  Assignments will be a mix of theoretical and computational problems.  The theoretical problems may include by-hand computations and simple proofs.  The computational problems will involve doing some analysis on data in Python.  All assignments will be completed and submitted in Jupyter Notebooks.  You are allotted **THREE** late days that may be used for homework over the entire semester. Submitting an assignment between 1 second and 23 hrs, 59 minutes, 59 seconds late constitutes 1 late day.  After you have expended your allotted late days late homework will **NOT** be accepted or graded. **Your lowest homework score will be dropped**. You are expected to write up your solutions neatly, with full explanations and justifications. You may discuss problems with your classmates, **but all work must be your own**.  See the **Collaboration Policy** below for more details. 
 
-**Course Participation**: Occasionally we will solve a short (5-10 minutes) tutorial problem as a class either on paper which you will submit at the end of class, or as a quick Moodle quiz.  Your course participation grade will be determined by 80% of the given tutorial problems (e.g. if we give 10 tutorial problems we will drop two of them.)  Dropped tutorial problems are to account for routine absences like minor illnesses and other unavoidable events.  You may not make up tutorial problems except in very extreme circumstances.  Attempts to subvert the integrity of participation assignments will be considered an Honor Code violation and will be met with measurable consequences.   
+**Quizlets**:  Occasionally we will post a short exercise (“quizlet”) on Moodle to be completed before the next class meeting. For example, if we post the quizlet on Monday after class, it will be due by 12 PM on Wednesday afternoon. These exercises will build on examples and concepts reviewed in class. Thus, if you attend class, they will be relatively short and sweet (5-15 minutes expected). We will announce these exercises in class and/or on Piazza, and post them on Moodle. If you miss class, it is your responsibility to check for quizlet updates. Your lowest quizlet score will be dropped.
 
 **Exams**: There will be an evening midterm on October 10th (Tentatively from 6:30 to 7:50 PM) and a final exam given during the university scheduled final examination time.  The final exam will be **cumulative** but will emphasize material covered after the midterm. Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
 
@@ -79,7 +79,7 @@ Very frequently in class we will explore computational problems directly in Jupy
 The overall grades will be based on a cumulative score computed from 
 
 * The homework (35% of the grade)
-* The score from class participation (5% of the grade)
+* The quizlets (5% of the grade)
 * The midterm exam (20% of the grade)
 * The final exam (25% of the grade)
 * The practicum (15% of the grade)
