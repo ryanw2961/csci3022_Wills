@@ -1,4 +1,4 @@
-## CSCI 3022: Intro to Data Science with Probability and Statistics, Spring 2018
+## CSCI 3022: Intro to Data Science with Probability and Statistics, Fall 2018
 
 ### Course Information 
 
