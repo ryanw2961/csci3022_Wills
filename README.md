@@ -49,11 +49,11 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |    |11.02 |	    |           | ???	 				 	 |       |	|
 |11  |11.05 |	    |           |Bootstrap Intro			 |       |	|
 |    |11.07 |	    |           |**Bootstrap and Small n HT**			 |       |	|
-|    |11.09 |	    |           |OLS/SLR Regression			 |       |	|
-|12  |11.12 |	    |           |Inference in SLR						 |        |	|
+|    |11.09 |	    |           |OLS/SLR Regression			 |       |hw5 due	|
+|12  |11.12 |	    |           |Inference in SLR						 |        |hw6 posted	|
 |    |11.14 |       |           |*Hands on inference in SLR*			 |      |	|
-|    |11.16 | 	    |27         |MLR				     |       |hw5 due|
-|13  |11.19	| 	    |    		|**FALL BREAK - NO CLASS** 						 |        |hw6 posted|
+|    |11.16 | 	    |27         |MLR				     |       ||
+|13  |11.19	| 	    |    		|**FALL BREAK - NO CLASS** 						 |        ||
 |    |11.21 | 	    |ISL Ch3    |**FALL BREAK - NO CLASS** 			|       |	|
 |    |11.23 |       |ISL Ch3    |**FALL BREAK - NO CLASS**    						 			|       |	|
 |14  |11.26 |	    |ISL Ch3    |Inference in MLR						|       |practicum posted|
