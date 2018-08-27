@@ -16,7 +16,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 
 | Week |  Date  |  nb       |  txt        |         Topic                            |  Slides     |  Hmwk            | 
 |------|--------|-----------|-------------|------------------------------------------|-------------|------------------| 
-| 1    | 8.27   |           |             | Course & Computing Introduction          |             |                  | 
+| 1    | 8.27   |           |             | Course & Computing Introduction          | [TW](https://drive.google.com/open?id=1P9vpqgDoLNYYe0ndQtjPrF8oD2uw-C9H)            |                  | 
 |      | 8.29   |           | 16.1-3      | EDA and Summary Statistics               |             |                  | 
 |      | 1.26   |           | 2           | Introduction to Probability              |             |                  | 
 | 2    | 9.03   |           |             | **LABOR DAY - NO CLASS**                 |             |                  | 
