@@ -2,7 +2,11 @@
 
 Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 
-[Piazza](https://piazza.com/colorado/fall2018/csci3022/home) and [Syllabus](https://github.com/dblarremore/csci3022/blob/master/resources/syllabus.md)
+[Piazza](https://piazza.com/colorado/fall2018/csci3022/home)
+
+[Syllabus](https://github.com/dblarremore/csci3022/blob/master/resources/syllabus.md)
+
+[Office Hours](https://goo.gl/YzMniJ)
 
 ***
 
@@ -12,7 +16,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 - This schedule is a rough approximation and subject to change.
 - Suggested reading under MIPS is from A Modern Introduction to Probability and Statistics by Dekking et al. 
 - Suggested reading under TS is from Think Stats by Downey. 
-- Homework is due on Moodle by 5pm on Friday the week **after** the assignment is listed. 
+- Homework is due on Moodle by 5pm on the dates listed.
 
 | Week |  Date  |  nb       |  txt        |         Topic                            |  Slides     |  Hmwk            | 
 |------|--------|-----------|-------------|------------------------------------------|-------------|------------------| 
