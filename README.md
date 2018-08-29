@@ -18,9 +18,9 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |------|--------|-----------|-------------|------------------------------------------|-------------|------------------| 
 | 1    | 8.27   |           |             | Course & Computing Introduction          | [TW](https://drive.google.com/open?id=1P9vpqgDoLNYYe0ndQtjPrF8oD2uw-C9H) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec1.pdf)            |                  | 
 |      | 8.29   |           | 16.1-3      | EDA and Summary Statistics               |             |                  | 
-|      | 1.26   |           | 2           | Introduction to Probability              |             |                  | 
+|      | 1.26   |           | 15.1-2,16.4 | EDA and Data Visualization              |                  | 
 | 2    | 9.03   |           |             | **LABOR DAY - NO CLASS**                 |             |                  | 
-|      | 9.05   |           | 15.1-2,16.4 | EDA and Data Visualization               |             | hw1  posted      | 
+|      | 9.05   |           | 2 | Introduction to Probability               |             | hw1  posted      | 
 |      | 9.07   |           |             | **Data Wrangling**                       |             |                  | 
 | 3    | 9.10   |           | 2,3         | **How to Python**                        |             |                  | 
 |      | 9.12   |           | 6           | Axioms and Theorems of Probability       |             |                  | 
