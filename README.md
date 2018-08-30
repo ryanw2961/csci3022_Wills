@@ -18,7 +18,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |------|--------|-----------|-------------|------------------------------------------|-------------|------------------| 
 | 1    | 8.27   | [tutorial](https://github.com/dblarremore/csci3022/blob/master/notebooks/NumpyPandasTutorial.ipynb)          |             | Course & Computing Introduction          | [TW](https://drive.google.com/open?id=1P9vpqgDoLNYYe0ndQtjPrF8oD2uw-C9H) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec1.pdf)            |                  | 
 |      | 8.29   |           | 16.1-3      | EDA and Summary Statistics               | [TW](https://drive.google.com/open?id=14_r2IgyIsD6jWRXa7Y7pMjOYklRCZAqz) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec2.pdf)           |                  | 
-|      | 8.31   |           | 15.1-2,16.4 | EDA and Data Visualization              |                  | 
+|      | 8.31   |           | 15.1-2,16.4 | EDA and Data Visualization              |  [TW](https://drive.google.com/open?id=1K3tJwRA-DJ3_NNqWkKtnmufkYDbr1pZj)                | 
 | 2    | 9.03   |           |             | **LABOR DAY - NO CLASS**                 |             |                  | 
 |      | 9.05   |           | 2 | Introduction to Probability               |             | hw1  posted      | 
 |      | 9.07   |           |             | **Data Wrangling**                       |             |                  | 
