@@ -21,8 +21,8 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 8.31   |           | 15.1-2,16.4 | EDA and Data Visualization              |  [TW](https://drive.google.com/open?id=1m5PvrG0hKUAu8QSOeCYH24RiSrsKcysk) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec3.pdf)               | 
 | 2    | 9.03   |           |             | **LABOR DAY - NO CLASS**                 |             |                  | 
 |      | 9.05   |           | 2 | Introduction to Probability               |  [TW](https://github.com/dblarremore/csci3022/blob/master/slides/lec4_TW.pdf) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec4.pdf)           | [Quizlet01 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26849), [hw1  posted](https://github.com/dblarremore/csci3022/tree/master/homework/homework1)      | 
-|      | 9.07   |           |             | **Data Wrangling**                       |             |                  | 
-| 3    | 9.10   |           | 2,3         | **How to Python**                        |             |                  | 
+|      | 9.07   |           |             | **How to Python/EDA**                       |             |                  | 
+| 3    | 9.10   |           | 2,3         | **Data Wrangling/Visualization**                        |             |                  | 
 |      | 9.12   |           | 6           | Axioms and Theorems of Probability       |             |                  | 
 |      | 9.14   |           | 3           | **Stochastic Simulation**                |             | hw1 due          | 
 | 4    | 9.17   |           | 4           | Bayes' Rule and Intro to PDFs            |             | hw2 posted       | 
