@@ -22,7 +22,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 | 2    | 9.03   |           |             | **LABOR DAY - NO CLASS**                 |             |                  | 
 |      | 9.05   |           | 2 | Introduction to Probability               |  [TW](https://github.com/dblarremore/csci3022/blob/master/slides/lec4_TW.pdf) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec4.pdf)           | [Quizlet01 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26849), [hw1  posted](https://github.com/dblarremore/csci3022/tree/master/homework/homework1)      | 
 |      | 9.07   | [HowTo](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb00_python_question_mark.ipynb), [nb01](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb01_pandas_titanic.ipynb), [nb02](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb02_summarystats_weather.ipynb)          |             | **How to Python/EDA**                       |             |                  | 
-| 3    | 9.10   |           | 2,3         | **Data Wrangling/Visualization**                        |             |                  | 
+| 3    | 9.10   | [viz](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb_bonus_thePlotThickens.ipynb)          | 2,3         | **Data Wrangling/Visualization**                        |             |                  | 
 |      | 9.12   |           | 6           | Axioms and Theorems of Probability       |             |                  | 
 |      | 9.14   |           | 3           | **Stochastic Simulation**                |             | hw1 due          | 
 | 4    | 9.17   |           | 4           | Bayes' Rule and Intro to PDFs            |             | hw2 posted       | 
