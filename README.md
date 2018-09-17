@@ -34,10 +34,10 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 | 6    | 10.01  |           | 7           | Expectation                              |             | hw3 posted       | 
 |      | 10.03  |           |             | Variance                                 |             |                  | 
 |      | 10.05  |           | 5.5         | **More Expectation & Variance**          |             |                  | 
-| 7    | 10.08  |           |             | The Normal Distribution                  |             |                  | 
-|      | 10.10  |           | 14          | **MIDTERM EXAM REVIEW**                  |             |                  | 
-|      | 10.10  |           |             | The Central Limit Theorems               |             |                  | 
-|      | 10.12  |           |             | **MIDTERM EXAM (PM)**                    |             | hw3 due          | 
+| 7    | 10.08  |           |             | **MIDTERM EXAM REVIEW (in class)                 |             |                  | 
+|      | 10.10  |           | 14          | **MIDTERM EXAM (PM)**                  |             |                  | 
+|      | 10.10  |           |             | The Normal Distribution                |             |                  | 
+|      | 10.12  |           |             |  The Central Limit Theorems                   |             | hw3 due          | 
 | 8    | 10.15  |           | 23,24       | **The Central Limit Theorem and You**    |             | hw4 posted       | 
 |      | 10.17  |           | 23,24       | Inference and CI Intro                   |             |                  | 
 |      | 10.19  |           |             | Two-Sample CIs                           |             |                  | 
