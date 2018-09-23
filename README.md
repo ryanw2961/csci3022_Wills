@@ -30,7 +30,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 9.21   |           |             | Discrete RVs Strike Back                 | [TW](https://drive.google.com/open?id=1jqlRQP8D_cc7OeNCUIFtaQWE65UYhS66) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec8.pdf)            |                  | 
 | 5    | 9.24   |           | 5           | **Return of the Discrete RVs**           |             |  [Quizlet03 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26851)                | 
 |      | 9.26   |           |             | Continuous RVs Awaken, PDFs, CDFs        |             |                  | 
-|      | 9.28   |           | 7           | **The Last Continuous RVs**              |             | hw2 due          | 
+|      | 9.28   |           | 7           | **The Last Continuous RVs**              |             | [hw2 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26852)          | 
 | 6    | 10.01  |           | 7           | Expectation                              |             | hw3 posted       | 
 |      | 10.03  |           |             | Variance                                 |             |                  | 
 |      | 10.05  |           | 5.5         | **More Expectation & Variance**          |             |                  | 
