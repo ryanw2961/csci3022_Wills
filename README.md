@@ -31,7 +31,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 | 5    | 9.24   | [nb06](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb06_bayes_LTP.ipynb), [nb07](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb07_discrete_rvs.ipynb), [nb08](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb08_more_discrete_rvs.ipynb)          | 5           | **Return of the Discrete RVs**           |             |  [Quizlet03 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26851)                | 
 |      | 9.26   |           |             | Continuous RVs Awaken, PDFs, CDFs        |             |                  | 
 |      | 9.28   |           | 7           | **The Last Continuous RVs**              |             | [hw2 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26852)          | 
-| 6    | 10.01  |           | 7           | Expectation                              |             | hw3 posted       | 
+| 6    | 10.01  |           | 7           | Expectation                              |             | hw3 posted, [Quizlet04 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26853)       | 
 |      | 10.03  |           |             | Variance                                 |             |                  | 
 |      | 10.05  |           | 5.5         | **More Expectation & Variance**          |             |                  | 
 | 7    | 10.08  |           |             | **MIDTERM EXAM REVIEW (in class)                 |             |                  | 
