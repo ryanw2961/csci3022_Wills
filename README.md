@@ -33,7 +33,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 9.28   | [nb09](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb09_continuousRVs.ipynb)          | 7           | **The Last Continuous RVs**              |             | [hw2 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26852)          | 
 | 6    | 10.01  |           | 7           | Expectation                              | [TW](https://drive.google.com/open?id=1pNhEKCnfTJ_t-_TyBIsESgSe2oXNYPtQ)            | [hw3 posted](https://github.com/dblarremore/csci3022/tree/master/homework/homework3), [Quizlet04 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26853)       | 
 |      | 10.03  |           |             | Variance                                 |             |                  | 
-|      | 10.05  |           | 5.5         | **More Expectation & Variance**          |             |                  | 
+|      | 10.05  |           | 5.5         | **More Expectation & Variance**          |             | [Quizlet05 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26854)                 | 
 | 7    | 10.08  |           |             | **MIDTERM EXAM REVIEW (in class)                 |             |                  | 
 |      | 10.10  |           | 14          | **MIDTERM EXAM (PM)**                  |             |                  | 
 |      | 10.10  |           |             | The Normal Distribution                |             |                  | 
