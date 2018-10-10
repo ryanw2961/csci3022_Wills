@@ -36,7 +36,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 10.05  | [nb10](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb10_expectation.ipynb), [nb11](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb11_exp_and_var.ipynb)          | 5.5         | **More Expectation & Variance**          |             | [Quizlet05 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26854)                 | 
 | 7    | 10.08  |           |             | **MIDTERM EXAM REVIEW (in class)**                 | [TW](https://drive.google.com/open?id=14ymiiBgYrrm65CFhjxSDHsg97JuSFyT0) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/DL_review.pdf)            |                  | 
 |      | 10.10  |           | 14          | **MIDTERM EXAM (PM)**                  |             |                  | 
-|      | 10.10  |           |             | The Normal Distribution                |  [TW](https://drive.google.com/open?id=1w-fHeyRCwWL_b6rlVeBVscFHMappescI) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec12.pdf)          |                  | 
+|      | 10.10  |           |             | The Normal Distribution                |  [TW](https://drive.google.com/open?id=1i0pTIas7Pk1oOVVbvgJcLGknOnqFwHwr) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec12.pdf)          |                  | 
 |      | 10.12  |           |             |  The Central Limit Theorems                   |             | hw3 due          | 
 | 8    | 10.15  |           | 23,24       | **The Central Limit Theorem and You**    |             | hw4 posted       | 
 |      | 10.17  |           | 23,24       | Inference and CI Intro                   |             |                  | 
