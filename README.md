@@ -37,7 +37,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 | 7    | 10.08  |           |             | **MIDTERM EXAM REVIEW (in class)**                 | [TW](https://drive.google.com/open?id=14ymiiBgYrrm65CFhjxSDHsg97JuSFyT0) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/DL_review.pdf)            |                  | 
 |      | 10.10  |           | 14          | **MIDTERM EXAM (PM)**                  |             |                  | 
 |      | 10.10  |           |             | The Normal Distribution                |  [TW](https://drive.google.com/open?id=1i0pTIas7Pk1oOVVbvgJcLGknOnqFwHwr) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec12.pdf)          |                  | 
-|      | 10.12  |           |             |  The Central Limit Theorems                   | [TW](https://drive.google.com/open?id=142SYnwcxZ4vzKFuF0QS0anyci6LM_ivK) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec13.pdf)            | hw3 due          | 
+|      | 10.12  |           |             |  The Central Limit Theorems                   | [TW](https://drive.google.com/open?id=142SYnwcxZ4vzKFuF0QS0anyci6LM_ivK) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec13.pdf)            | [hw3 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26855)          | 
 | 8    | 10.15  |           | 23,24       | **The Central Limit Theorem and You**    |             | hw4 posted       | 
 |      | 10.17  |           | 23,24       | Inference and CI Intro                   |             | [Quizlet06 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26857)                 | 
 |      | 10.19  |           |             | Two-Sample CIs                           |             |                  | 
