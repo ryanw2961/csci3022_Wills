@@ -39,7 +39,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 10.10  |           |             | The Normal Distribution                |  [TW](https://drive.google.com/open?id=1i0pTIas7Pk1oOVVbvgJcLGknOnqFwHwr) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec12.pdf)          |                  | 
 |      | 10.12  |           |             |  The Central Limit Theorems                   | [TW](https://drive.google.com/open?id=142SYnwcxZ4vzKFuF0QS0anyci6LM_ivK) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec13.pdf)            | hw3 due          | 
 | 8    | 10.15  |           | 23,24       | **The Central Limit Theorem and You**    |             | hw4 posted       | 
-|      | 10.17  |           | 23,24       | Inference and CI Intro                   |             |                  | 
+|      | 10.17  |           | 23,24       | Inference and CI Intro                   |             | [Quizlet06 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26857)                 | 
 |      | 10.19  |           |             | Two-Sample CIs                           |             |                  | 
 | 9    | 10.22  |           | 25,26       | **CIs in the Wild**                      |             |                  | 
 |      | 10.24  |           | 25,26       | Hypothesis Testing Intro                 |             |                  | 
