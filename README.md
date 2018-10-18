@@ -41,7 +41,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 | 8    | 10.15  | [nb12](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb12_normal.ipynb), [nb13](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb13_centrallimitthm.ipynb)          | 23,24       | **The Central Limit Theorem and You**    |             | [hw4 posted](https://github.com/dblarremore/csci3022/tree/master/homework/homework4)       | 
 |      | 10.17  |           | 23,24       | Inference and CI Intro                   | [TW](https://drive.google.com/open?id=1-ZPsbBqsQOpGDcZ9YHIZ_XWe8t4YNBHb) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec14.pdf)            | [Quizlet06 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26857)                 | 
 |      | 10.19  |           |             | Two-Sample CIs                           |             |                  | 
-| 9    | 10.22  |           | 25,26       | **CIs in the Wild**                      |             |                  | 
+| 9    | 10.22  |           | 25,26       | **CIs in the Wild**                      |             | [Quizlet07 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26859)                 | 
 |      | 10.24  |           | 25,26       | Hypothesis Testing Intro                 |             |                  | 
 |      | 10.26  |           |             | p-Values                                 |             | hw4 due          | 
 | 10   | 10.29  |           | 27          | **Practical HT & p**                     |             | hw5 posted       | 
