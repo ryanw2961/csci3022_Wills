@@ -46,9 +46,9 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 10.26  |           |             | p-Values                                 | [TW](https://drive.google.com/open?id=1PNaCXf-f9MVMYkwV4op0bWL8c0L7hqji) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec17.pdf)            | [hw4 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26856)          | 
 | 10   | 10.29  | [nb16](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb16_ht.ipynb), [nb17](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb17_pvals.ipynb)          | 27          | **Practical HT & p**                     |             | [Quizlet08 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26862), [hw5 posted](https://github.com/dblarremore/csci3022/tree/master/homework/homework5)       | 
 |      | 10.31  |           |             | Small-sample HT                          | [TW](https://drive.google.com/open?id=1FD00N79p7e_8EjFE_A_ch5I384QIWJV-) [DL](https://drive.google.com/open?id=1FD00N79p7e_8EjFE_A_ch5I384QIWJV-)            |                  | 
-|      | 11.02  |           |             |  TBD                                     | [TW](https://drive.google.com/open?id=198VypWu9n7HKC4YQ9fHvqZDtjMFkO0rK)            |                  | 
-| 11   | 11.05  |           | 18,23.3     | Bootstrap Intro                          |             |                  | 
-|      | 11.07  |           |             | **Bootstrap and Small n HT**             |             |                  | 
+|      | 11.02  |           | 18,23.3     |  Bootstrap Intro                         | [TW](https://drive.google.com/open?id=198VypWu9n7HKC4YQ9fHvqZDtjMFkO0rK)            |                  | 
+| 11   | 11.05  |           |             | **Bootstrap and Small n HT**             |             | [Quizlet09 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26863)                 | 
+|      | 11.07  |           |             | TBD                                      |             |                  | 
 |      | 11.09  |           | 27          | OLS/SLR Regression                       |             | hw5 due          | 
 | 12   | 11.12  |           |             | Inference in SLR                         |             | hw6 posted       | 
 |      | 11.14  |           |             | *Hands on inference in SLR*              |             |                  | 
