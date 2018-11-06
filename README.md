@@ -48,7 +48,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 10.31  |           |             | Small-sample HT                          | [TW](https://drive.google.com/open?id=1KlR2YvpIr4wd0_tlRpc8hGgaIcpF2CA8) [DL](https://drive.google.com/open?id=1FD00N79p7e_8EjFE_A_ch5I384QIWJV-)            |                  | 
 |      | 11.02  |           | 18,23.3     |  Bootstrap Intro                         | [TW](https://drive.google.com/open?id=1_vYh7BD-XQAK0uI62uSnPf4KAbHvR8CM)            |                  | 
 | 11   | 11.05  | [nb18](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb18_bootstrap.ipynb)          |             | **Bootstrap and Small n HT**             |             | [Quizlet09 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26863)                 | 
-|      | 11.07  |           |             | TBD                                      |             |                  | 
+|      | 11.07  | [nb](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb_blackjack.ipynb)          |             | Bonus stochastic sim day!                                      |             |                  | 
 |      | 11.09  |           | 27          | OLS/SLR Regression                       |             | hw5 due          | 
 | 12   | 11.12  |           |             | Inference in SLR                         |             | hw6 posted       | 
 |      | 11.14  |           |             | *Hands on inference in SLR*              |             |                  | 
