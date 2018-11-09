@@ -49,7 +49,7 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 11.02  |           | 18,23.3     |  Bootstrap Intro                         | [TW](https://drive.google.com/open?id=1_vYh7BD-XQAK0uI62uSnPf4KAbHvR8CM) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec19.pdf)           |                  | 
 | 11   | 11.05  | [nb18](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb18_bootstrap.ipynb)          |             | **Bootstrap and Small n HT**             |             | [Quizlet09 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26863)                 | 
 |      | 11.07  |  [nb](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb_blackjack.ipynb) [solns](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb_blackjack_solutions.ipynb)        |             | Bonus stochastic sim day!                                      |             |                  | 
-|      | 11.09  |           | 27          | OLS/SLR Regression                       |             | hw5 due          | 
+|      | 11.09  | [nb20](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb20_regression.ipynb)          | 27          | OLS/SLR Regression                       | [TW](https://drive.google.com/open?id=1jTLJM7jUM-IhZIJ9h2rmkib0rfJ1Yggz)            | [hw5 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26858)          | 
 | 12   | 11.12  |           |             | Inference in SLR                         |             | hw6 posted       | 
 |      | 11.14  |           |             | *Hands on inference in SLR*              |             |                  | 
 |      | 11.16  |           |             | MLR                                      |             |                  | 
