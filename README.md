@@ -50,15 +50,15 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 | 11   | 11.05  | [nb18](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb18_bootstrap.ipynb)          |             | **Bootstrap and Small n HT**             |             | [Quizlet09 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26863)                 | 
 |      | 11.07  |  [nb](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb_blackjack.ipynb) [solns](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb_blackjack_solutions.ipynb)        |             | Bonus stochastic sim day!                                      |             |                  | 
 |      | 11.09  | [nb20](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb20_regression.ipynb)          | 27          | OLS/SLR Regression                       | [TW](https://drive.google.com/open?id=1jTLJM7jUM-IhZIJ9h2rmkib0rfJ1Yggz) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec20.pdf)            | [hw5 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26858)          | 
-| 12   | 11.12  |           |             | Inference in SLR                         | [TW](https://drive.google.com/open?id=14EO85vDlOpphy2-DXRIdSrMj0fuR2Wwl) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec21.pdf)            | hw6 posted       | 
-|      | 11.14  |           |             | *Hands on inference in SLR*              |             |                  | 
-|      | 11.16  |           |             | MLR                                      |             |                  | 
+| 12   | 11.12  |           |             | Inference in SLR                         | [TW](https://drive.google.com/open?id=14EO85vDlOpphy2-DXRIdSrMj0fuR2Wwl) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec21.pdf)            | [hw6 posted](https://github.com/dblarremore/csci3022/tree/master/homework/homework6)       | 
+|      | 11.14  | [nb21](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb21_SLRinference.ipynb)          |             | *Hands on inference in SLR*              |             |                  | 
+|      | 11.16  |           |             | MLR                                      |             | [Quizlet10 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26864)                 | 
 | 13   | 11.19  |           |             | **FALL BREAK - NO CLASS**                |             |                  | 
 |      | 11.21  |           |             | **FALL BREAK - NO CLASS**                |             |                  | 
 |      | 11.23  |           |             | **FALL BREAK - NO CLASS**                |             |                  | 
 | 14   | 11.26  |           | ISL Ch3     | Inference in MLR                         |             | practicum posted | 
 |      | 11.28  |           | ISL Ch3     | More MLR and ANOVA I                     |             |                  | 
-|      | 11.30  |           | ISL Ch3     | ANOVA II                                 |             | hw6 due          | 
+|      | 11.30  |           | ISL Ch3     | ANOVA II                                 |             | [hw6 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26861)          | 
 | 15   | 12.03  |           |             | **ANOVA + Inference in MLR**             |             |                  | 
 |      | 12.05  |           |             | Logistic Regr. & Classification          |             |                  | 
 |      | 12.07  |           |             | **Logistic Regr. & Classification**      |             |                  | 
